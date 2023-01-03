@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyOcrCardRecognition</string>
+    <string name="mlkit">CameraX + TextRecognition</string>
+</resources>
